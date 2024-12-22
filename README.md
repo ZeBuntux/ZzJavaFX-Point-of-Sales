@@ -1,4 +1,4 @@
-# JavaFX-Point-of-Sales
+# ZzJavaFX-Point-of-Sales
 Point of Sales with inventory management system 
 
 The MIT License (MIT)
